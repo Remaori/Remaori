@@ -4,6 +4,10 @@ Computer Systems Engineering student specializing in DevOps.
 
 I mostly work on audio plugins (VST3) in C++ with JUCE, backend services with Node.js and PostgreSQL, and CI/CD with automated testing.
 
+**Languages:** Spanish (native) · English (B2) · German (A2)
+
+**Time zone:** UTC−6 (Mexico)
+
 ---
 
 ## What I do
