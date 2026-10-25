@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Remaori" width="100%">
+</p>
+
 ## whoami
 
 Computer Systems Engineering student specializing in DevOps.
