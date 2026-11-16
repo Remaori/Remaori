@@ -45,7 +45,7 @@ I mostly work on audio plugins (VST3) in C++ with JUCE, backend services with No
 
 **Audio and C++**
 
-[![C++, CMake, Visual Studio, MacOS, Windows](https://skillicons.dev/icons?i=cpp,cmake,visualstudio,windows&theme=dark)](https://skillicons.dev)
+[![C++, CMake, Visual Studio, Macos, Windows](https://skillicons.dev/icons?i=cpp,cmake,visualstudio,windows&theme=dark)](https://skillicons.dev)
 
 ![JUCE](https://img.shields.io/badge/JUCE-e0245e?style=for-the-badge)
 ![VST3](https://img.shields.io/badge/VST3-e0245e?style=for-the-badge)
